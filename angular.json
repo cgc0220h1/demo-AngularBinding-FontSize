@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demo-Angular-FontSizeBindingPropertyBinding"
+    }
+  },
+  "defaultProject": "demo-Angular-FontSizeBindingPropertyBinding",
+  "cli": {
+    "analytics": false
+  }
 }
